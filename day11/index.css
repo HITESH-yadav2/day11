@@ -1,0 +1,15 @@
+#container{
+  display: flex;
+
+  padding: 20px;
+  background-color: blanchedalmond;
+  flex-wrap: wrap;
+  gap: 20px;
+
+}
+.card{
+  background-color: blueviolet;
+  border-radius: 20px;
+  width: 200px;
+  height: 300px;
+}
